@@ -1,0 +1,10 @@
+[Unit]
+Description="Local Minecraft CDN"
+
+[Service]
+Type=simple
+ExecStart=/bin/minecraft_cdn
+Restart=always
+
+[Install]
+WantedBy=default.target

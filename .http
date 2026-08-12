@@ -1,0 +1,34 @@
+POST http://localhost:9624/modpacks/monifactory/ender-tank
+Content-Type: application/json
+
+{
+    "fluid": "Mercury",
+    "code": "1CA"
+}
+###
+POST http://localhost:9624/modpacks/monifactory/ender-tank
+Content-Type: application/json
+
+{
+    "code": "111",
+    "fluid": "Sulfuric Acid"
+}
+
+###
+
+POST http://localhost:9624/modpacks/monifactory/ender-tank
+Content-Type: application/json
+
+{
+    "fluid": "Mercury",
+    "code": ""
+}
+###
+
+POST http://localhost:9624/modpacks/monifactory/ender-tank
+Content-Type: application/json
+
+{
+    "fluid": "",
+    "code": "1CA"
+}

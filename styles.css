@@ -1,0 +1,34 @@
+.flex-container {
+  display: flex;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.r-gap10 {
+  row-gap: 10px;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.c-gap10 {
+  column-gap: 10px;
+}
+
+.form-input {
+  display: flex;
+  column-gap: 10px;
+  select {
+    width: 25%;
+  };
+  input {
+    width: 75%;
+  };
+  div {
+    align-content: center;
+    width: 25%;
+  };
+}

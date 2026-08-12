@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Sentry Armor TrimSentry Trim",
+        "location": "Pillager Outpost"
+    },
+    {
+        "name": "Dune Armor TrimDune Trim",
+        "location": "Desert Pyramid"
+    },
+    {
+        "name": "Coast Armor TrimCoast Trim",
+        "location": "Shipwreck"
+    },
+    {
+        "name": "Wild Armor TrimWild Trim",
+        "location": "Jungle Temple"
+    },
+    {
+        "name": "Tide Armor TrimTide Trim",
+        "location": "Ocean Monument"
+    },
+    {
+        "name": "Ward Armor TrimWard Trim",
+        "location": "Ancient City"
+    },
+    {
+        "name": "Vex Armor TrimVex Trim",
+        "location": "Woodland Mansion"
+    },
+    {
+        "name": "Rib Armor TrimRib Trim",
+        "location": "Nether Fortress"
+    },
+    {
+        "name": "Snout Armor TrimSnout Trim",
+        "location": "Bastion Remnant"
+    },
+    {
+        "name": "Eye Armor TrimEye Trim",
+        "location": "Stronghold"
+    },
+    {
+        "name": "Spire Armor TrimSpire Trim",
+        "location": "End City"
+    },
+    {
+        "name": "Wayfinder Armor Trim",
+        "location": "Trail Ruins"
+    },
+    {
+        "name": "Raiser Armor Trim",
+        "location": "Trail Ruins"
+    },
+    {
+        "name": "Shaper Armor Trim",
+        "location": "Trail Ruins"
+    },
+    {
+        "name": "Host Armor Trim",
+        "location": "Trail Ruins"
+    },
+    {
+        "name": "Silence Armor Trim",
+        "location": "Ancient City"
+    }
+]

@@ -1,0 +1,44 @@
+* {
+  font-family:'Courier New', Courier, monospace
+}
+
+body {
+  background-color: #AFAFAF
+}
+
+th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 1em;
+  text-align: center;
+}
+
+.color-column {
+  width: 50px;
+}
+
+.hex-column {
+  width: 50px;
+}
+
+.fluid-column {
+  width: 150px;
+}
+
+button {
+  font-size: 20px;
+  width: max-content;
+}
+
+.color-container {
+  display: flex;
+  flex: auto;
+  flex-direction: row;
+}
+
+.color-box {
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  border: 1px solid black
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "code": "04F",
+        "fluid": "Heavy Fuel"
+    },
+    {
+        "code": "111",
+        "fluid": "Sulfuric Acid"
+    },
+    {
+        "code": "144",
+        "fluid": "Light Fuel"
+    },
+    {
+        "code": "333",
+        "fluid": "Oxygen"
+    },
+    {
+        "code": "444",
+        "fluid": "Naphtha"
+    },
+    {
+        "code": "57A",
+        "fluid": "Ethylene"
+    },
+    {
+        "code": "777",
+        "fluid": "Refinery Gas"
+    },
+    {
+        "code": "888",
+        "fluid": "Steam"
+    },
+    {
+        "code": "A14",
+        "fluid": "Polyethylene"
+    },
+    {
+        "code": "AAA",
+        "fluid": "Methane"
+    },
+    {
+        "code": "B3B",
+        "fluid": "Water"
+    },
+    {
+        "code": "BBB",
+        "fluid": "Hydrogen"
+    },
+    {
+        "code": "DA5",
+        "fluid": "Creosote"
+    },
+    {
+        "code": "EEE",
+        "fluid": "Lava"
+    },
+    {
+        "code": "FFF",
+        "fluid": "Raw Oil"
+    }
+]
