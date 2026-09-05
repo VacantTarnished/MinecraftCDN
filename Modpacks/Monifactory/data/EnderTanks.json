@@ -4,6 +4,14 @@
         "fluid": "Heavy Fuel"
     },
     {
+        "code": "054",
+        "fluid": "Glue"
+    },
+    {
+        "code": "0DA",
+        "fluid": "Phenol"
+    },
+    {
         "code": "111",
         "fluid": "Sulfuric Acid"
     },
@@ -32,6 +40,10 @@
         "fluid": "Steam"
     },
     {
+        "code": "A0D",
+        "fluid": "Liquid Rubber"
+    },
+    {
         "code": "A14",
         "fluid": "Polyethylene"
     },
@@ -48,8 +60,16 @@
         "fluid": "Hydrogen"
     },
     {
+        "code": "D53",
+        "fluid": "Iron III Chloride"
+    },
+    {
         "code": "DA5",
         "fluid": "Creosote"
+    },
+    {
+        "code": "DA8",
+        "fluid": "LPG"
     },
     {
         "code": "EEE",
